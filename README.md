@@ -15,11 +15,9 @@
 
 
 <a href="s">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&show_icons=true"/><br><br>
 
-
-
- ![Chynmn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true"/>
 </a>
   
 
