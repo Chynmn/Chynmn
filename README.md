@@ -8,13 +8,14 @@
 <img src="https://img.shields.io/badge/Swift-3766AB?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"><br><br>
 
 
 
 
 
 <a href="s">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&show_icons=true"/><br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true"/>
