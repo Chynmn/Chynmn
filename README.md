@@ -1,29 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=81FFFE&height=300&section=header&text=Chynmn&fontColor=d6ace6&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=300&section=header&text=Chynmn&fontColor=000000&fontSize=90&animation=fadeIn)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<div align="center">
+[![Chynmn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chynmn&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> Techs that I've used at least once </p>
+
+🛠 Tech Stack 🛠
+Techs that I've used at least once
 <img src="https://img.shields.io/badge/Swift-81FFFE?style=for-the-badge&logo=Swift&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-</p>
 
 
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=81FFFE&height=200&width=100&section=footer)
 
-<!--
-**Chynmn/Chynmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chynmn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChynmn%2Fhit-counter&count_bg=%2381FFFE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFFFE&height=200&width=100&section=footer)
+</div>
