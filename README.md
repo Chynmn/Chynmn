@@ -20,9 +20,13 @@
 
 
 <div align="center">
-  <br><br>
+
+  
+  
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chynmn&theme=react-dark)
-  <br><br>
+
+  
+  
   
   
   <br><br>
