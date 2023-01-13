@@ -2,7 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chynmn&fontColor=white&fontSize=90&animation=fadeIn)<br><br>
 
 <div align="center">
-<br>
+<br/>
+ <div align="right">
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChynmn%2Fhit-counter&count_bg=%2381FFFE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false) <br><br/>
+ </div>
  <br/>
  <h3 align="center">📱 Contact 📲</h3>
  <a href="https://www.linkedin.com/in/hyunmin-cho-866496257/" target="_blank"><img src="https://img.shields.io/badge/HyunminCho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -37,10 +40,7 @@
 
 
 <div align="center">
-  
-  <br><br/>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChynmn%2Fhit-counter&count_bg=%2381FFFE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false) <br><br/>
-  
+ <br><br/>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100&section=footer) <br><br/>
 </div>
 
