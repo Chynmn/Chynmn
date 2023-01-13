@@ -38,8 +38,18 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&layout=compact&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true"/>
-  <br><br/>
+## Github Stats 
+<table><tr><td valign="top" width="50%>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&layout=compact&show_icons=true" align="left" style="width: 100%"/>
+
+</td><td valign="top" width="50%">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true" align="left" style="width: 100%"/>
+ 
+</td></tr></table>  
+ 
+<br/>
 
 
 
