@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chynmn's github&fontColor=FFFFFF&fontSize=90&animation=fadeIn)<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chynmn&fontColor=FFFFFF&fontSize=90&animation=fadeIn)<br><br>
 
 <div align="center">
 <br/>
