@@ -8,7 +8,7 @@
 <br/>
  </div>
  <br/>
- <h3 align="center">📱 Contact 📲</h3>
+ <h2 align="center">📱 Contact 📲</h2>
  <a href="https://www.linkedin.com/in/hyunmin-cho-866496257/" target="_blank"><img src="https://img.shields.io/badge/HyunminCho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:chynmn0523@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chynmn0523@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/xxchynmn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">  </p>
   <img alt="IOS" src="https://img.shields.io/badge/-IOS-000?style=flat-square&logo=apple&logoColor=ffffff" /> 
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
@@ -49,7 +49,7 @@
 ## Github Stats 
 <br/>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&layout=compact&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&layout=compact&show_icons=true" height="180" /><img src="https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true" height="180" />
 <br/> 
 <br/>
 
