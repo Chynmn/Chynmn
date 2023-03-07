@@ -51,6 +51,9 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chynmn&theme=github_dark&layout=compact&show_icons=true" height="180" /><img src="https://github-readme-stats.vercel.app/api?username=Chynmn&theme=github_dark&show_icons=true" height="180" />
 <br/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chynmn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynmn&langs_count=4" />
+  <img align="center" width="33%" height="160px" src="https://github-profile-trophy.vercel.app/?username=chynmn&theme=darkhub&row=2&column=4&no-frame=true" alt="trophy" />
 <br/>
 
 <div align="center">
