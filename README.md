@@ -19,8 +19,9 @@
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">  </p>
 <h4>Language</h4>
-  <img alt="IOS" src="https://img.shields.io/badge/-IOS-000?style=for-the-badge&logo=apple&logoColor=ffffff" /> 
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white" />
+ <img width="30" src="https://user-images.githubusercontent.com/76584961/216117810-7c78b892-cb2b-4050-8911-f51ae15cb85e.png" alt="swift">
+    <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white" />
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/216117822-e83f9b0c-3e41-44ac-9da9-05ecf3494c99.png" alt="swiftui">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/> 
